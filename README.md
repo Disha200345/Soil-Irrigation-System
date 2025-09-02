@@ -48,20 +48,6 @@ The notebook produces:
 - Confusion matrix heatmap
 - Classification report
 
-Example output:
-Accuracy: ~0.87
-Confusion Matrix:
-[[120   5]
- [ 15 110]]
-
-Classification Report:
-              precision    recall  f1-score   support
-           0       0.89      0.96      0.92       125
-           1       0.96      0.88      0.92       125
-    accuracy                           0.92       250
-   macro avg       0.92      0.92      0.92       250
-weighted avg       0.92      0.92      0.92       250
-
 ----------------------------------------
 🌍 Applications
 ----------------------------------------
