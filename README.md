@@ -20,18 +20,18 @@ It leverages time-series data, preprocessing, and an LSTM (Long Short-Term Memor
 Python >= 3.8
 
 Libraries:
-- pandas
-- numpy
-- scikit-learn
-- matplotlib
-- seaborn
-- tensorflow
-- keras
+- `pandas`
+- `numpy`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
+- `tensorflow`
+- `keras`
   
 Install all with:
-
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn tensorflow keras
-
+```
 
 ----------------------------------------
 📊 Model
